@@ -1,0 +1,45 @@
+\hspace *{.5cm}شکل\hfill صفحه \par 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1‏-‏1}{\ignorespaces ساختار سنتی ایستگاه پایه \cite {checko2015cloud}}}{4}{figure.1.1}
+\contentsline {figure}{\numberline {1‏-‏2}{\ignorespaces ساختار ایستگاه پایه و واحد رادیویی \cite {checko2015cloud}}}{5}{figure.1.2}
+\contentsline {figure}{\numberline {1‏-‏3}{\ignorespaces ساختار \lr {C-RAN} \cite {checko2015cloud}}}{5}{figure.1.3}
+\contentsline {figure}{\numberline {1‏-‏4}{\ignorespaces ساختار شبکه ی \lr {C-RAN} \cite {checko2015cloud}}}{6}{figure.1.4}
+\contentsline {figure}{\numberline {1‏-‏5}{\ignorespaces تغییرات حجم ترافیک در ایستگاههای پایه بنا به مکان قرارگیری آنها \cite {checko2015cloud}}}{7}{figure.1.5}
+\contentsline {figure}{\numberline {1‏-‏6}{\ignorespaces تداخل در \lr {LTE} و \lr {C-RAN} \cite {WinNT}}}{8}{figure.1.6}
+\contentsline {figure}{\numberline {1‏-‏7}{\ignorespaces محدودیت در اثر تاخیر \cite {simeoneConf} }}{10}{figure.1.7}
+\contentsline {figure}{\numberline {1‏-‏8}{\ignorespaces ساختار شبکه های دسترسی ابری نامتحانس \cite {heterogeneous} }}{11}{figure.1.8}
+\contentsline {figure}{\numberline {1‏-‏9}{\ignorespaces سیر تحولات شبکه های رادیویی ابری \cite {fogComputing}}}{14}{figure.1.9}
+\contentsline {figure}{\numberline {1‏-‏10}{\ignorespaces مدل سیستم \lr {F-RAN} \cite {fogComputing} }}{14}{figure.1.10}
+\contentsline {figure}{\numberline {1‏-‏11}{\ignorespaces توان عملیاتی تمام کاربران سلول \cite {graph} }}{16}{figure.1.11}
+\contentsline {figure}{\numberline {1‏-‏12}{\ignorespaces بهره وری انرژی در حضور ترافیک معمول \cite {graph} }}{17}{figure.1.12}
+\contentsline {figure}{\numberline {1‏-‏13}{\ignorespaces بهره وری انرژی در حضور ترافیک محدود \cite {graph} }}{17}{figure.1.13}
+\contentsline {figure}{\numberline {1‏-‏14}{\ignorespaces نسبت خطا به تعداد \lr {RRH} در هر خوشه \cite {graph} }}{18}{figure.1.14}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2‏-‏1}{\ignorespaces مسیر انتقال پیام در لینک فروسو \cite {Fronthaul}.}}{21}{figure.2.1}
+\contentsline {figure}{\numberline {2‏-‏2}{\ignorespaces ساختار \lr {MIMO C-RAN} \cite {EEcluster}.}}{23}{figure.2.2}
+\contentsline {figure}{\numberline {2‏-‏3}{\ignorespaces بازدهی انرژی برحسب تعداد واحد های رادیویی تک آنتنه برای واریانس های نویز کوانتیزاسیون متفاوت با فرض وجود 3 کاربر و $P_{max} = 23dBm$}}{29}{figure.2.3}
+\contentsline {figure}{\numberline {2‏-‏4}{\ignorespaces .بازدهی انرژی برحسب تعداد واحدهای رادیویی برای یک خوشه برای تعداد کاربر متفاوت}}{30}{figure.2.4}
+\contentsline {figure}{\numberline {2‏-‏5}{\ignorespaces ٍ بازدهی انرژی برحسب تعداد واحدهای رادیویی برای یک خوشه برای تعداد کاربر متفاوت}}{31}{figure.2.5}
+\contentsline {figure}{\numberline {2‏-‏6}{\ignorespaces بازدهی انرژی برحسب تعداد واحدهای رادیویی برای 3 کاربر در دو حالت با پیش کدگذاری متفاوت. }}{32}{figure.2.6}
+\contentsline {figure}{\numberline {2‏-‏7}{\ignorespaces بازدهی انرژی بر حسب تعداد واحدهای رادیویی با وجود 3 خوشه. }}{33}{figure.2.7}
+\contentsline {figure}{\numberline {2‏-‏8}{\ignorespaces مسیر انتقال پیام در لینک فراسو \cite {Fronthaul}.}}{34}{figure.2.8}
+\contentsline {figure}{\numberline {2‏-‏9}{\ignorespaces ٍ بازدهی انرژی برحسب تعداد واحدهای رادیویی برای یک خوشه برای 2 کاربر متفاوت}}{39}{figure.2.9}
+\contentsline {figure}{\numberline {2‏-‏10}{\ignorespaces ٍ بازدهی انرژی برحسب تعداد واحدهای رادیویی برای2 کاربر در دو حالت با پرتودهی متفاوت }}{40}{figure.2.10}
+\contentsline {figure}{\numberline {2‏-‏11}{\ignorespaces ٍ بازدهی انرژی برحسب تعداد کاربران برای یک خوشه برای 3 مقدار متفاوت واحد های رادیویی}}{41}{figure.2.11}
+\contentsline {figure}{\numberline {2‏-‏12}{\ignorespaces ٍ بازدهی انرژی برحسب تعداد واحدهای رادیویی برای2 کاربر در دو حالت با نویز کوانتیزاسیون متفاوت }}{42}{figure.2.12}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3‏-‏1}{\ignorespaces ساختار \lr {C-RAN} در لینک فروسو. }}{47}{figure.3.1}
+\contentsline {figure}{\numberline {3‏-‏2}{\ignorespaces بازدهی انرژی با توجه به تغییرات تعداد واحدهای رادیویی در هر خوشه برای توان بهینه برای دو کاربر مختلف و پارامترهای جدول \ref {tab:title}}}{55}{figure.3.2}
+\contentsline {figure}{\numberline {3‏-‏3}{\ignorespaces بازدهی انرژی با توجه به تغییرات تعداد کاربران در هر خوشه برای توان بهینه برای سه واحد رادیویی مختلف و پارامترهای جدول \ref {tab:title} و $P_c = 9dbm$}}{56}{figure.3.3}
+\contentsline {figure}{\numberline {3‏-‏4}{\ignorespaces بازدهی انرژی با توجه به تغییرات $C^{th}$، در در حالت $S =2$, $\text {\lr {Number of RRHs per Cluster}} = 10 , 5$, $\text {\lr {Number of UE per Cluster}} =2$ }}{57}{figure.3.4}
+\contentsline {figure}{\numberline {3‏-‏5}{\ignorespaces بازدهی انرژی بر حسب تعداد کاربران در 3 خوشه برای دو مقدار $\sigma _q = 1e-4 , 1e-6$ 100 واحد رادیویی در هر خوشه}}{58}{figure.3.5}
+\contentsline {figure}{\numberline {3‏-‏6}{\ignorespaces ساختار \lr {C-RAN} در لینک فراسو }}{59}{figure.3.6}
+\contentsline {figure}{\numberline {3‏-‏7}{\ignorespaces بازدهی انرژی با توجه به تغییرات تعداد واحدهای رادیویی در هر خوشه برای توان بهینه برای دو کاربر مختلف و پارامترهای جدول \ref {tab:title3}}}{65}{figure.3.7}
+\contentsline {figure}{\numberline {3‏-‏8}{\ignorespaces بازدهی انرژی با توجه به تغییرات تعداد کاربران در هر خوشه برای توان بهینه برای دو واحد رادیویی مختلف و پارامترهای جدول \ref {tab:title3} و $S=2$}}{66}{figure.3.8}
+\contentsline {figure}{\numberline {3‏-‏9}{\ignorespaces بازدهی انرژی با توجه به تغییرات $C^{th}$، در در حالت $S =2 ,4 $, $\text {\lr {Number of RRHs per Cluster}} = 30$, $\text {\lr {Number of UE per Cluster}} =2$ }}{67}{figure.3.9}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4‏-‏1}{\ignorespaces بازدهی انرژی با توجه به تغییرات تعداد واحدهای رادیویی در هر خوشه برای توان بهینه برای دو کاربر مختلف و پارامترهای جدول \ref {tab:title22}}}{77}{figure.4.1}
+\contentsline {figure}{\numberline {4‏-‏2}{\ignorespaces بازدهی انرژی با توجه به تغییرات تعداد کاربران در هر خوشه برای توان بهینه برای دو واحد رادیویی مختلف و پارامترهای جدول \ref {tab:title22} }}{77}{figure.4.2}
+\contentsline {figure}{\numberline {4‏-‏3}{\ignorespaces بازدهی انرژی با توجه به تغییرات ظرفیت بیشینه ی لینک \lr {fronthaul} در هر خوشه برای توان بهینه برای دو تعدا کاربر مختلف و پارامترهای جدول \ref {tab:title22} }}{78}{figure.4.3}
+\addvspace {10\p@ }
+\contentsfinish 

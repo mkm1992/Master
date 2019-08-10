@@ -1,0 +1,80 @@
+ %%%  کلاس AUT_thesis، نسخه آبان 95
+%%%   دانشگاه صنعتی امیرکبیر                 http://www.aut.ac.ir
+%%%  تالار گفتگوی پارسی‌لاتک،       http://forum.parsilatex.com
+%%%   آپدیت شده در آبان 95
+%%      پشتیبانی و راهنمایی          badali_farhad@yahoo.com
+
+%-----------------------------------------------------------------------------------------------------
+%        روش اجرا.: 2 بار F1 ، 2 بار  F11(به منظور تولید مراجع) ، دوبار Ctrl+Alt+I (به منظور تولید نمایه) و دو بار F1 -------> مشاهده Pdf
+%        اگر قصد نوشتن رساله دکتری را دارید، در خط زیر به جای msc،
+%      کلمه phd را قرار دهید. کلیه تنظیمات لازم، به طور خودکار، اعمال می‌شود.
+% !TEX TS-program = XeLaTeX
+\documentclass[oneside,msc]{AUT_thesis}
+%       فایل commands.tex را حتماً به دقت مطالعه کنید؛ چون دستورات مربوط به فراخوانی بسته زی‌پرشین 
+%       و دیگر بسته‌ها و ... در این فایل قرار دارد و بهتر است که با نحوه استفاده از آنها آشنا شوید. توجه شود برای نسخه نهایی پایان‌نامه حتماً hyperref را 
+%        غیرفعال کنید.
+
+
+
+\input{commands}
+\begin{document}
+\baselineskip=.75cm
+\input{fa_title}
+\vspace*{7cm}
+\thispagestyle{empty}
+\begin{center}
+\includegraphics[height=5cm,width=12cm]{besm}
+\end{center}
+% تاییدیه دفاع
+\input{taid}
+% چنانچه مایل به چاپ صفحات «تقدیم»، «نیایش» و «سپاس‌گزاری» در خروجی نیستید، خط‌های زیر را با گذاشتن ٪  در ابتدای آنها غیرفعال کنید.
+% پایان‌نامه خود را تقدیم کنید
+% نیایش خود را در فایل زیر بنویسید.
+\input{Chant}
+%سپاسگزاری را در فایل زیر بنویسید.
+\input{acknowledgement}
+%دستور زیر برای شماره گذاری صفحات قبل از فصل اول با حروف ابجد است.
+\pagenumbering{alph}
+%-----------------------------------------------------------------------------
+%در فایل زیر دستورات مربوط به نمایش صفحات فهرست مطالب- فهرست اشکال و جداول است.
+\input{TOC-TOF-LOT}
+% در صورت تمایل می‌توانید با فعال کردن دستور بالا، لیست تصاویر را به  پایان‌نامه خود اضافه کنید.
+%-------------------------------------------------------------------------symbols(فهرست نمادها)
+% وجود لیست نمادها الزامیست.(لطفاً نمادهای خود را جایگذین نمادهای پیش‌فرض کنید.)
+\input{list-of-symbols}
+\input{acronym}
+\pagenumbering{arabic}
+\pagestyle{style1}
+%--------------------------------------------------------------------------chapters(فصل ها)
+\include{chapter1}
+\include{chapter2}
+\include{chapter3}
+\include{chapter4}
+\include{chapter5}
+
+%--------------------------------------------------------------------------appendix( مراجع و پیوست ها)
+\chapterfont{\vspace*{-2em}\centering\LARGE}%
+
+\appendix
+%\bibliographystyle{plain-fa}
+%\bibliographystyle{ieeetr}
+%\bibliography{references}
+\begin{latin}
+\bibliographystyle{IEEEtran}
+\renewcommand{\bibname}{\rl{{کتاب‌نامه}\hfill}} 
+\bibliography{IEEEabrv,references}
+\end{latin}
+%\include{appendix1}
+%--------------------------------------------------------------------------dictionary(واژه نامه ها)
+%اگر مایل به داشتن صفحه واژه‌نامه نیستید، خط زیر را غیر فعال کنید.
+%\parindent=0pt
+%\include{dicfa2en}%
+%\include{dicen2fa}
+%--------------------------------------------------------------------------index(نمایه)
+%اگر مایل به داشتن صفحه نمایه نیستید، خط زیر را غیر فعال کنید.
+\pagestyle{style7}
+\printindex
+\pagestyle{style7}
+\include{en-abstract}
+\input{en_title}
+\end{document}

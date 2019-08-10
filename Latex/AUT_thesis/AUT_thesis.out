@@ -1,0 +1,84 @@
+\BOOKMARK [0][-]{section*.4}{فهرست اشکال}{}% 1
+\BOOKMARK [0][-]{section*.5}{فهرست جداول}{}% 2
+\BOOKMARK [0][-]{chapter.1}{مقدمه ای بر C-RAN}{}% 3
+\BOOKMARK [1][-]{section.1.1}{ مقدمه ای بر ساختار رادیویی دسترسی ابری}{chapter.1}% 4
+\BOOKMARK [2][-]{subsection.1.1.1}{مقدمه ای بر 5G }{section.1.1}% 5
+\BOOKMARK [2][-]{subsection.1.1.2}{تاریخچه مخابرات}{section.1.1}% 6
+\BOOKMARK [2][-]{subsection.1.1.3}{مقدمه ای بر C-RAN}{section.1.1}% 7
+\BOOKMARK [1][-]{section.1.2}{ساختار شبکه های مختلف }{chapter.1}% 8
+\BOOKMARK [2][-]{subsection.1.2.1}{پیش زمینه ها}{section.1.2}% 9
+\BOOKMARK [2][-]{subsection.1.2.2}{تعریف مسئله}{section.1.2}% 10
+\BOOKMARK [1][-]{section.1.3}{مزایای شبکه ی C-RAN}{chapter.1}% 11
+\BOOKMARK [2][-]{subsection.1.3.1}{توانایی تطبیق پذیری با ترافیک غیر یکنواخت }{section.1.3}% 12
+\BOOKMARK [2][-]{subsection.1.3.2}{صرفه جویی در هزینه و مصرف انرژی }{section.1.3}% 13
+\BOOKMARK [2][-]{subsection.1.3.3}{سهولت در ارتقا دادن و نگهداری از شبکه}{section.1.3}% 14
+\BOOKMARK [2][-]{subsection.1.3.4}{کاهش چشمگیر تداخل از طریق پردازش واحد باند پایه }{section.1.3}% 15
+\BOOKMARK [2][-]{subsection.1.3.5}{افزایش توان و کاهش تاخیر}{section.1.3}% 16
+\BOOKMARK [1][-]{section.1.4}{چالشها و مشکلات در برخورد با ساختار C-RAN }{chapter.1}% 17
+\BOOKMARK [2][-]{subsection.1.4.1}{دو چالش مهم مربوط به fronthaul}{section.1.4}% 18
+\BOOKMARK [2][-]{subsection.1.4.2}{نحوه ی مشارکت BBU ها نحوه ی اتصال و خوشه بندی}{section.1.4}% 19
+\BOOKMARK [2][-]{subsection.1.4.3}{نیاز به پهنای باند وسیعتر و تاخیر دقیق و کمتر}{section.1.4}% 20
+\BOOKMARK [2][-]{subsection.1.4.4}{محدودیت ظرفیت در backhaul}{section.1.4}% 21
+\BOOKMARK [2][-]{subsection.1.4.5}{نیاز به شبکه های انتقال ازران}{section.1.4}% 22
+\BOOKMARK [1][-]{section.1.5}{شبکه های دسترسی رادیویی ابری نا متجانس \(H-CRAN\)}{chapter.1}% 23
+\BOOKMARK [2][-]{subsection.1.5.1}{ساختار شبکه ی H-CRAN}{section.1.5}% 24
+\BOOKMARK [2][-]{subsection.1.5.2}{چالشهای پیش روی H-CRAN}{section.1.5}% 25
+\BOOKMARK [1][-]{section.1.6}{C-RANو H-CRAN }{chapter.1}% 26
+\BOOKMARK [2][-]{subsection.1.6.1}{تفاوت و شباهت های این دو ساختار}{section.1.6}% 27
+\BOOKMARK [2][-]{subsection.1.6.2}{مشکلات پیش روی این دو ساختار}{section.1.6}% 28
+\BOOKMARK [1][-]{section.1.7}{ارائه ی پیشنهاد سیستم جایگزین \(F-RAN\)}{chapter.1}% 29
+\BOOKMARK [2][-]{subsection.1.7.1}{ساختار سیستمهای F-RAN}{section.1.7}% 30
+\BOOKMARK [1][-]{section.1.8}{برخی از کاربردهای شبکه ی C-RAN }{chapter.1}% 31
+\BOOKMARK [2][-]{subsection.1.8.1}{ تخصیص منابع مبتنی بر مدولاسیون OFDM}{section.1.8}% 32
+\BOOKMARK [1][-]{section.1.9}{تخصیص توان و خوشه بندی شبکه های رادیویی ابری}{chapter.1}% 33
+\BOOKMARK [1][-]{section.1.10}{نتیجه گیری}{chapter.1}% 34
+\BOOKMARK [1][-]{section.1.11}{خلاصه ای از فصلهای آتی}{chapter.1}% 35
+\BOOKMARK [0][-]{chapter.2}{ در ساختار دسترسی رادیویی ابری‌ادبیات و پیشینه ی تحقیق}{}% 36
+\BOOKMARK [1][-]{section.2.1}{مقدمه}{chapter.2}% 37
+\BOOKMARK [1][-]{section.2.2}{لینک فروسو}{chapter.2}% 38
+\BOOKMARK [2][-]{subsection.2.2.1}{مدل سیستم اول}{section.2.2}% 39
+\BOOKMARK [2][-]{subsection.2.2.2}{مدل سیستم دوم}{section.2.2}% 40
+\BOOKMARK [2][-]{subsection.2.2.3}{مدل سیستم سوم}{section.2.2}% 41
+\BOOKMARK [2][-]{subsection.2.2.4}{مقایسه ی روش های بیان شده }{section.2.2}% 42
+\BOOKMARK [2][-]{subsection.2.2.5}{نتایج عددی}{section.2.2}% 43
+\BOOKMARK [1][-]{section.2.3}{لینک فراسو}{chapter.2}% 44
+\BOOKMARK [2][-]{subsection.2.3.1}{مدل سیستم اول}{section.2.3}% 45
+\BOOKMARK [2][-]{subsection.2.3.2}{مدل سیستم دوم}{section.2.3}% 46
+\BOOKMARK [2][-]{subsection.2.3.3}{نتایج عددی}{section.2.3}% 47
+\BOOKMARK [2][-]{subsection.2.3.4}{مقایسه ی روش های بیان شده}{section.2.3}% 48
+\BOOKMARK [1][-]{section.2.4}{سیستم مخابراتی D2D }{chapter.2}% 49
+\BOOKMARK [2][-]{subsection.2.4.1}{مقدمه}{section.2.4}% 50
+\BOOKMARK [2][-]{subsection.2.4.2}{مدل سیستم}{section.2.4}% 51
+\BOOKMARK [1][-]{section.2.5}{نتیجه گیری}{chapter.2}% 52
+\BOOKMARK [0][-]{chapter.3}{تخصیص منابع در شبکه های دسترسی رادیویی ابری دارای ظرفیت محدود در لینک fronthaul}{}% 53
+\BOOKMARK [1][-]{section.3.1}{مقدمه}{chapter.3}% 54
+\BOOKMARK [1][-]{section.3.2}{لینک فروسو}{chapter.3}% 55
+\BOOKMARK [2][-]{subsection.3.2.1}{مدل سیستم}{section.3.2}% 56
+\BOOKMARK [2][-]{subsection.3.2.2}{آنالیز نرخ قابل دسترس}{section.3.2}% 57
+\BOOKMARK [2][-]{subsection.3.2.3}{بهینه سازی تخصیص توان}{section.3.2}% 58
+\BOOKMARK [2][-]{subsection.3.2.4}{روش مورد استفاده}{section.3.2}% 59
+\BOOKMARK [2][-]{subsection.3.2.5}{نتایج عددی}{section.3.2}% 60
+\BOOKMARK [2][-]{subsection.3.2.6}{نتیجه گیری}{section.3.2}% 61
+\BOOKMARK [1][-]{section.3.3}{لینک فراسو}{chapter.3}% 62
+\BOOKMARK [2][-]{subsection.3.3.1}{مدل سیستم}{section.3.3}% 63
+\BOOKMARK [2][-]{subsection.3.3.2}{آنالیز نرخ قابل دسترس}{section.3.3}% 64
+\BOOKMARK [2][-]{subsection.3.3.3}{بهینه سازی تخصیص توان}{section.3.3}% 65
+\BOOKMARK [2][-]{subsection.3.3.4}{روش مورد استفاده}{section.3.3}% 66
+\BOOKMARK [2][-]{subsection.3.3.5}{نتایج عددی}{section.3.3}% 67
+\BOOKMARK [2][-]{subsection.3.3.6}{نتیجه گیری}{section.3.3}% 68
+\BOOKMARK [0][-]{chapter.4}{تخصیص منابع در حالت تقسیم زمانی دینامیکی در شبکه دسترسی رادیویی}{}% 69
+\BOOKMARK [1][-]{section.4.1}{مقدمه}{chapter.4}% 70
+\BOOKMARK [1][-]{section.4.2}{مدل سیستم}{chapter.4}% 71
+\BOOKMARK [2][-]{subsection.4.2.1}{آنالیز نرخ قابل دسترس در خوشه های فروسو}{section.4.2}% 72
+\BOOKMARK [2][-]{subsection.4.2.2}{آنالیز نرخ قابل دسترس در خوشه های فراسو}{section.4.2}% 73
+\BOOKMARK [2][-]{subsection.4.2.3}{شرح مسئله}{section.4.2}% 74
+\BOOKMARK [2][-]{subsection.4.2.4}{روش مورد استفاده}{section.4.2}% 75
+\BOOKMARK [2][-]{subsection.4.2.5}{الگوریتم لینک فروسو}{section.4.2}% 76
+\BOOKMARK [2][-]{subsection.4.2.6}{الگوریتم لینک فراسو}{section.4.2}% 77
+\BOOKMARK [2][-]{subsection.4.2.7}{نتایج عددی}{section.4.2}% 78
+\BOOKMARK [1][-]{section.4.3}{نتیجه گیری}{chapter.4}% 79
+\BOOKMARK [0][-]{chapter.5}{ نتيجه‌گيري و پیشنهادات}{}% 80
+\BOOKMARK [1][-]{section.5.1}{مروری بر کارهای صورت گرفته}{chapter.5}% 81
+\BOOKMARK [1][-]{section.5.2}{نتیجه گیری}{chapter.5}% 82
+\BOOKMARK [1][-]{section.5.3}{پیشنهادات}{chapter.5}% 83
+\BOOKMARK [0][-]{appendix*.15}{کتاب‌نامه}{}% 84

@@ -1,0 +1,98 @@
+\edef \SavedTocDepth {\the \value {tocdepth}}
+\setcounter {tocdepth}{-10}
+\contentsline {chapter}{فهرست اشکال}{ه‍}{section*.4}
+\contentsline {chapter}{فهرست جداول}{ز}{section*.5}
+\par عنوان\hfill صفحه \par 
+\setcounter {tocdepth}{\SavedTocDepth }
+\contentsline {chapter}{\numberline {1}مقدمه ای بر \lr {C-RAN}}{1}{chapter.1}
+\contentsline {section}{\numberline {1‏-‏1} مقدمه ای بر ساختار رادیویی دسترسی ابری}{2}{section.1.1}
+\contentsline {subsection}{\numberline {1‏-‏1‏-‏1}مقدمه ای بر \lr {5G} }{2}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1‏-‏1‏-‏2}تاریخچه مخابرات}{2}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1‏-‏1‏-‏3}مقدمه ای بر \lr {C-RAN}}{3}{subsection.1.1.3}
+\contentsline {section}{\numberline {1‏-‏2}ساختار شبکه های مختلف }{3}{section.1.2}
+\contentsline {subsection}{\numberline {1‏-‏2‏-‏1}پیش زمینه ها}{4}{subsection.1.2.1}
+\contentsline {subsubsection}{ساختار سنتی ایستگاه پایه }{4}{section*.6}
+\contentsline {subsubsection}{ ساختار ایستگاه پایه و واحد رادیویی}{4}{section*.7}
+\contentsline {subsection}{\numberline {1‏-‏2‏-‏2}تعریف مسئله}{6}{subsection.1.2.2}
+\contentsline {subsubsection}{ساختار \lr {C-RAN}}{6}{section*.8}
+\contentsline {section}{\numberline {1‏-‏3}مزایای شبکه ی \lr {C-RAN}}{7}{section.1.3}
+\contentsline {subsection}{\numberline {1‏-‏3‏-‏1}توانایی تطبیق پذیری با ترافیک غیر یکنواخت }{7}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1‏-‏3‏-‏2}صرفه جویی در هزینه و مصرف انرژی }{8}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1‏-‏3‏-‏3}سهولت در ارتقا دادن و نگهداری از شبکه}{8}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1‏-‏3‏-‏4}کاهش چشمگیر تداخل از طریق پردازش واحد باند پایه }{8}{subsection.1.3.4}
+\contentsline {subsection}{\numberline {1‏-‏3‏-‏5}افزایش توان و کاهش تاخیر}{9}{subsection.1.3.5}
+\contentsline {section}{\numberline {1‏-‏4}چالشها و مشکلات در برخورد با ساختار \lr {C-RAN} }{9}{section.1.4}
+\contentsline {subsection}{\numberline {1‏-‏4‏-‏1}دو چالش مهم مربوط به \lr {fronthaul}}{9}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1‏-‏4‏-‏2}نحوه ی مشارکت \lr {BBU} ها نحوه ی اتصال و خوشه بندی}{10}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1‏-‏4‏-‏3}نیاز به پهنای باند وسیعتر و تاخیر دقیق و کمتر}{10}{subsection.1.4.3}
+\contentsline {subsection}{\numberline {1‏-‏4‏-‏4}محدودیت ظرفیت در \lr {backhaul}}{11}{subsection.1.4.4}
+\contentsline {subsection}{\numberline {1‏-‏4‏-‏5}نیاز به شبکه های انتقال ازران}{11}{subsection.1.4.5}
+\contentsline {section}{\numberline {1‏-‏5}شبکه های دسترسی رادیویی ابری نا متجانس (\lr {H-CRAN})}{11}{section.1.5}
+\contentsline {subsection}{\numberline {1‏-‏5‏-‏1}ساختار شبکه ی \lr {H-CRAN}}{12}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1‏-‏5‏-‏2}چالشهای پیش روی \lr {H-CRAN}}{12}{subsection.1.5.2}
+\contentsline {section}{\numberline {1‏-‏6}\lr {C-RAN}و \lr {H-CRAN} }{13}{section.1.6}
+\contentsline {subsection}{\numberline {1‏-‏6‏-‏1}تفاوت و شباهت های این دو ساختار}{13}{subsection.1.6.1}
+\contentsline {subsection}{\numberline {1‏-‏6‏-‏2}مشکلات پیش روی این دو ساختار}{13}{subsection.1.6.2}
+\contentsline {section}{\numberline {1‏-‏7}ارائه ی پیشنهاد سیستم جایگزین (\lr {F-RAN})}{13}{section.1.7}
+\contentsline {subsection}{\numberline {1‏-‏7‏-‏1}ساختار سیستمهای \lr {F-RAN}}{14}{subsection.1.7.1}
+\contentsline {section}{\numberline {1‏-‏8}برخی از کاربردهای شبکه ی \lr {C-RAN} }{15}{section.1.8}
+\contentsline {subsection}{\numberline {1‏-‏8‏-‏1} تخصیص منابع مبتنی بر مدولاسیون \lr {OFDM}}{15}{subsection.1.8.1}
+\contentsline {section}{\numberline {1‏-‏9}تخصیص توان و خوشه بندی شبکه های رادیویی ابری}{16}{section.1.9}
+\contentsline {section}{\numberline {1‏-‏10}نتیجه گیری}{16}{section.1.10}
+\contentsline {section}{\numberline {1‏-‏11}خلاصه ای از فصلهای آتی}{18}{section.1.11}
+\contentsline {chapter}{\numberline {2} در ساختار دسترسی رادیویی ابری‌ادبیات و پیشینه ی تحقیق}{19}{chapter.2}
+\contentsline {section}{\numberline {2‏-‏1}مقدمه}{20}{section.2.1}
+\contentsline {section}{\numberline {2‏-‏2}لینک فروسو}{20}{section.2.2}
+\contentsline {subsection}{\numberline {2‏-‏2‏-‏1}مدل سیستم اول}{20}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2‏-‏2‏-‏2}مدل سیستم دوم}{22}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2‏-‏2‏-‏3}مدل سیستم سوم}{26}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2‏-‏2‏-‏4}مقایسه ی روش های بیان شده }{27}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2‏-‏2‏-‏5}نتایج عددی}{28}{subsection.2.2.5}
+\contentsline {section}{\numberline {2‏-‏3}لینک فراسو}{33}{section.2.3}
+\contentsline {subsection}{\numberline {2‏-‏3‏-‏1}مدل سیستم اول}{33}{subsection.2.3.1}
+\contentsline {subsubsection}{ مرحله ی یادگیری کانال }{35}{section*.9}
+\contentsline {subsubsection}{ مرحله ی بررسی داده }{35}{section*.10}
+\contentsline {subsubsection}{صورت مسئله}{36}{section*.11}
+\contentsline {subsection}{\numberline {2‏-‏3‏-‏2}مدل سیستم دوم}{36}{subsection.2.3.2}
+\contentsline {subsubsection}{صورت مسئله}{38}{section*.12}
+\contentsline {subsection}{\numberline {2‏-‏3‏-‏3}نتایج عددی}{38}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2‏-‏3‏-‏4}مقایسه ی روش های بیان شده}{42}{subsection.2.3.4}
+\contentsline {section}{\numberline {2‏-‏4}سیستم مخابراتی \lr {D2D} }{43}{section.2.4}
+\contentsline {subsection}{\numberline {2‏-‏4‏-‏1}مقدمه}{43}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2‏-‏4‏-‏2}مدل سیستم}{43}{subsection.2.4.2}
+\contentsline {section}{\numberline {2‏-‏5}نتیجه گیری}{45}{section.2.5}
+\contentsline {chapter}{\numberline {3}تخصیص منابع در شبکه های دسترسی رادیویی ابری دارای ظرفیت محدود در لینک \lr {fronthaul}}{46}{chapter.3}
+\contentsline {section}{\numberline {3‏-‏1}مقدمه}{47}{section.3.1}
+\contentsline {section}{\numberline {3‏-‏2}لینک فروسو}{48}{section.3.2}
+\contentsline {subsection}{\numberline {3‏-‏2‏-‏1}مدل سیستم}{48}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3‏-‏2‏-‏2}آنالیز نرخ قابل دسترس}{49}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3‏-‏2‏-‏3}بهینه سازی تخصیص توان}{51}{subsection.3.2.3}
+\contentsline {subsubsection}{شرح مسئله}{51}{section*.13}
+\contentsline {subsection}{\numberline {3‏-‏2‏-‏4}روش مورد استفاده}{52}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3‏-‏2‏-‏5}نتایج عددی}{54}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3‏-‏2‏-‏6}نتیجه گیری}{58}{subsection.3.2.6}
+\contentsline {section}{\numberline {3‏-‏3}لینک فراسو}{59}{section.3.3}
+\contentsline {subsection}{\numberline {3‏-‏3‏-‏1}مدل سیستم}{59}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3‏-‏3‏-‏2}آنالیز نرخ قابل دسترس}{60}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3‏-‏3‏-‏3}بهینه سازی تخصیص توان}{62}{subsection.3.3.3}
+\contentsline {subsubsection}{شرح مسئله}{62}{section*.14}
+\contentsline {subsection}{\numberline {3‏-‏3‏-‏4}روش مورد استفاده}{63}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3‏-‏3‏-‏5}نتایج عددی}{64}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3‏-‏3‏-‏6}نتیجه گیری}{67}{subsection.3.3.6}
+\contentsline {chapter}{\numberline {4}تخصیص منابع در حالت تقسیم زمانی دینامیکی در شبکه دسترسی رادیویی}{68}{chapter.4}
+\contentsline {section}{\numberline {4‏-‏1}مقدمه}{69}{section.4.1}
+\contentsline {section}{\numberline {4‏-‏2}مدل سیستم}{69}{section.4.2}
+\contentsline {subsection}{\numberline {4‏-‏2‏-‏1}آنالیز نرخ قابل دسترس در خوشه های فروسو}{69}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4‏-‏2‏-‏2}آنالیز نرخ قابل دسترس در خوشه های فراسو}{71}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4‏-‏2‏-‏3}شرح مسئله}{73}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4‏-‏2‏-‏4}روش مورد استفاده}{73}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4‏-‏2‏-‏5}الگوریتم لینک فروسو}{74}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4‏-‏2‏-‏6}الگوریتم لینک فراسو}{75}{subsection.4.2.6}
+\contentsline {subsection}{\numberline {4‏-‏2‏-‏7}نتایج عددی}{76}{subsection.4.2.7}
+\contentsline {section}{\numberline {4‏-‏3}نتیجه گیری}{79}{section.4.3}
+\contentsline {chapter}{\numberline {5} نتيجه‌گيري و پیشنهادات}{80}{chapter.5}
+\contentsline {section}{\numberline {5‏-‏1}مروری بر کارهای صورت گرفته}{81}{section.5.1}
+\contentsline {section}{\numberline {5‏-‏2}نتیجه گیری}{81}{section.5.2}
+\contentsline {section}{\numberline {5‏-‏3}پیشنهادات}{81}{section.5.3}
+\contentsline {chapter}{\rl {{کتاب‌نامه}\hfill }}{83}{appendix*.15}
+\contentsfinish 

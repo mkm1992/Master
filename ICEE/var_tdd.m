@@ -1,0 +1,15 @@
+Ms = 7;
+fc = 2*1e9;
+BW = 180 * 1e3;
+N0 = -174 ; % dbm
+n0 = db2pow(N0)/1000;
+Pmax_u = 15;% dbm
+Pmax_d= 23;% dbm
+pm_u = db2pow(Pmax_u)/1000;
+pm_d = db2pow(Pmax_d)/1000;
+Pc1 = 20;% dbm
+pc = db2pow(Pc1)/1000;
+Cmin_u = 1; %bps/hz
+Cmin_d = 1; %bps/hz
+alpha = 1;
+beta = 1;
